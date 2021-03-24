@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <button onclick="document.write('Hola curso, ¿como estan?')">Hola mundo</button>
+        <br> <br>
+        <button onclick="alert('Hola de nuevo, \n¿Como estan?')">Saludo por msg</button>
+        <br><br>
+        <button onclick="MiFuncion()">Mi primera funcion</button>
+        <br>
+        <p id="demo"></p>
+    </body>
+    <script>
+        function MiFuncion() {
+            var txt='Estamos cursando'
+            var sum1=' JavaScript'
+            var cadenatxt= txt + sum1;
+            document.getElementById("demo").innerHTML=cadenatxt
+        }
+
+    </script>
+
+</html>
