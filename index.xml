@@ -15,14 +15,14 @@
       <description>My name is Diego González, I am a Cloud Engineer and this is a simple website I made just for fun!
 I build this using:
  Git Git-Hub Pages Hugo Linux A purchased domain :)  Thanks!</description>
-      <content>&lt;p&gt;My name is &lt;a href=&#34;https://www.linkedin.com/in/diegonz/&#34;&gt;Diego González&lt;/a&gt;, I am a Cloud Engineer and this is a simple website I made just for fun!&lt;/p&gt;
+      <content>&lt;p&gt;My name is &lt;a href=&#34;https://www.linkedin.com/in/diegonz&#34;&gt;Diego González&lt;/a&gt;, I am a Cloud Engineer and this is a simple website I made just for fun!&lt;/p&gt;
 &lt;p&gt;I build this using:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Git&lt;/li&gt;
-&lt;li&gt;Git-Hub Pages&lt;/li&gt;
-&lt;li&gt;Hugo&lt;/li&gt;
-&lt;li&gt;Linux&lt;/li&gt;
-&lt;li&gt;A purchased domain :)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Git-Hub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linux.org/&#34;&gt;Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostinger.com.ar/&#34;&gt;A purchased domain :)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Thanks!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://diegosandbox.tech/images/jerry.png&#34; alt=&#34;Jerry&#34;&gt;&lt;/p&gt;
