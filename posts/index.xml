@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DiegoGG Sandbox</title>
-    <link>https://diegosandbox.tech/</link>
-    <description>Recent content on DiegoGG Sandbox</description>
+    <title>Posts on DiegoGG Sandbox</title>
+    <link>https://diegosandbox.tech/posts/</link>
+    <description>Recent content in Posts on DiegoGG Sandbox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://diegosandbox.tech/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://diegosandbox.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello!</title>
       <link>https://diegosandbox.tech/posts/mypost/</link>
