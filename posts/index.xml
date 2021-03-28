@@ -7,14 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://diegosandbox.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello!</title>
-      <link>https://diegosandbox.tech/posts/mypost/</link>
+      <title>Hello! (Click here 🧐)</title>
+      <link>https://diegosandbox.tech/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diegosandbox.tech/posts/mypost/</guid>
-      <description>My name is Diego González, I am a Cloud Engineer and this is a simple website made just for fun! I made this using:
- Git Git-Hub Pages Hugo Linux A purchased domain :)  </description>
-      <content>&lt;p&gt;My name is Diego González, I am a Cloud Engineer and this is a simple website made just for fun! I made this using:&lt;/p&gt;
+      <guid>https://diegosandbox.tech/welcome/</guid>
+      <description>My name is Diego González, I am a Cloud Engineer and this is a simple website I made just for fun!
+I build this using:
+ Git Git-Hub Pages Hugo Linux A purchased domain :)  Thanks!</description>
+      <content>&lt;p&gt;My name is &lt;a href=&#34;https://www.linkedin.com/in/diegonz/&#34;&gt;Diego González&lt;/a&gt;, I am a Cloud Engineer and this is a simple website I made just for fun!&lt;/p&gt;
+&lt;p&gt;I build this using:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Git-Hub Pages&lt;/li&gt;
@@ -22,6 +24,7 @@
 &lt;li&gt;Linux&lt;/li&gt;
 &lt;li&gt;A purchased domain :)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://diegosandbox.tech/images/jerry.png&#34; alt=&#34;Jerry&#34;&gt;&lt;/p&gt;
 </content>
     </item>
